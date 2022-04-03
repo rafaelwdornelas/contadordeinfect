@@ -1,0 +1,189 @@
+[
+  {
+    "visitorId": "7efc8ef10ba79cb8dc7675593f1081ae",
+    "date": "28-03-2022 02:14:18",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "N",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Safari/537.36"
+  },
+  {
+    "visitorId": "25bd86da3069999df6375287635096bc",
+    "date": "28-03-2022 02:14:27",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "N",
+    "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320"
+  },
+  {
+    "visitorId": "2984c797fbd1dac091eac470ac32646e",
+    "date": "28-03-2022 02:14:33",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Safari/537.36 CrKey/1.54.248666"
+  },
+  {
+    "visitorId": "96d71ab926940514a499f09d353882b6",
+    "date": "28-03-2022 02:14:38",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36"
+  },
+  {
+    "visitorId": "a72c3f03534eca308a67514c359fea79",
+    "date": "28-03-2022 02:14:43",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36"
+  },
+  {
+    "visitorId": "dad11465b3eedf5b2d47382aa4e87d1d",
+    "date": "28-03-2022 02:14:48",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36"
+  },
+  {
+    "visitorId": "bf481150cd07d251a52b26361dfac768",
+    "date": "28-03-2022 02:14:53",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "visitorId": "3e44d62ae86e31bc29fdf3154b028ec0",
+    "date": "28-03-2022 02:14:57",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "visitorId": "bbaef5f4d01afd9a0ce35df0af6cf9d1",
+    "date": "28-03-2022 02:15:04",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "visitorId": "67518a4ecbb315538841b7de7850adf5",
+    "date": "28-03-2022 02:15:10",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36"
+  },
+  {
+    "visitorId": "ce8864b58e2e0fa9ca212d2b602545f2",
+    "date": "28-03-2022 02:15:14",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36"
+  },
+  {
+    "visitorId": "3d8cea01c074c9c162b70b9d1a32a91c",
+    "date": "28-03-2022 02:15:19",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+  },
+  {
+    "visitorId": "0f84ee5daf3db2e3b4e0aa51adbc3110",
+    "date": "28-03-2022 02:15:23",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"
+  },
+  {
+    "visitorId": "5a09c8771eda3363aad6d37519aab855",
+    "date": "28-03-2022 02:15:27",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"
+  },
+  {
+    "visitorId": "4888b5f080ee133917010383cdc49405",
+    "date": "28-03-2022 02:15:31",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"
+  },
+  {
+    "visitorId": "ccd5b96d95ea61e70b78f3a437a6a5bb",
+    "date": "28-03-2022 02:15:58",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "N",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55"
+  },
+  {
+    "visitorId": "2e6a8bbbc39da04fece8e1977f0bbed6",
+    "date": "28-03-2022 02:16:07",
+    "language": "pt-BR",
+    "ip": "160.238.223.117",
+    "city": "Lambari",
+    "region": "MG",
+    "country": "BR",
+    "mobile": "S",
+    "ua": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Mobile Safari/537.36 Edg/99.0.1150.55"
+  }
+]
